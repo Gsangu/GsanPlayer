@@ -1,0 +1,13 @@
+c:\users\gsan\documents\visual studio 2015\Projects\GsanPlayer\GsanPlayer\bin\Debug\GsanPlayer.exe.config
+c:\users\gsan\documents\visual studio 2015\Projects\GsanPlayer\GsanPlayer\bin\Debug\GsanPlayer.exe
+c:\users\gsan\documents\visual studio 2015\Projects\GsanPlayer\GsanPlayer\bin\Debug\GsanPlayer.pdb
+c:\users\gsan\documents\visual studio 2015\Projects\GsanPlayer\GsanPlayer\bin\Debug\CSkin.dll
+c:\users\gsan\documents\visual studio 2015\Projects\GsanPlayer\GsanPlayer\bin\Debug\CSkin.xml
+c:\users\gsan\documents\visual studio 2015\Projects\GsanPlayer\GsanPlayer\obj\Debug\GsanPlayer.Form1.resources
+c:\users\gsan\documents\visual studio 2015\Projects\GsanPlayer\GsanPlayer\obj\Debug\GsanPlayer.Properties.Resources.resources
+c:\users\gsan\documents\visual studio 2015\Projects\GsanPlayer\GsanPlayer\obj\Debug\GsanPlayer.csproj.GenerateResource.Cache
+c:\users\gsan\documents\visual studio 2015\Projects\GsanPlayer\GsanPlayer\obj\Debug\GsanPlayer.exe
+c:\users\gsan\documents\visual studio 2015\Projects\GsanPlayer\GsanPlayer\obj\Debug\GsanPlayer.pdb
+C:\Users\Gsan\Documents\Visual Studio 2015\Projects\GsanPlayer\GsanPlayer\obj\Debug\GsanPlayer.KtvLrc.resources
+C:\Users\Gsan\documents\visual studio 2015\Projects\GsanPlayer\GsanPlayer\obj\Debug\GsanPlayer.SwitchImage.resources
+C:\Users\Gsan\Documents\Visual Studio 2015\Projects\GsanPlayer\GsanPlayer\obj\Debug\GsanPlayer.csprojResolveAssemblyReference.cache
